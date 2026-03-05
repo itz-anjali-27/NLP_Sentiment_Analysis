@@ -1,8 +1,8 @@
 
-### Project Overview
+### #Project Overview
 This project performs sentiment analysis on IMDB movie reviews using Natural Language Processing techniques.
 
-### Features
+### #Features
 Text preprocessing
 
 Lowercasing and punctuation removal
@@ -15,7 +15,7 @@ Stemming / Lemmatization
 
 Feature extraction using Bag of Words and TF-IDF
 
-### Technologies Used
+### #Technologies Used
 Python
 
 NLP libraries
@@ -26,10 +26,10 @@ NLTK / spaCy
 
 Jupyter Notebook
 
-### Dataset
+### #Dataset
 IMDB movie reviews dataset used for sentiment classification.
 
-### Workflow
+### #Workflow
 Data loading
 
 Text preprocessing
